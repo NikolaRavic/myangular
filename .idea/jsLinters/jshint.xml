@@ -55,7 +55,7 @@
     <option noyield="false" />
     <option onevar="false" />
     <option passfail="false" />
-    <option phantom="false" />
+    <option phantom="true" />
     <option plusplus="false" />
     <option proto="false" />
     <option prototypejs="false" />
